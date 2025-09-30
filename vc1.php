@@ -24,8 +24,6 @@
 
 "https://youtube.com/shorts/bMEwdtYNDsY",
 
-"https://youtube.com/shorts/eU4acaLZBw4",
-
-"https://youtube.com/shorts/4yDC3r81Aqc"
+"https://youtube.com/shorts/eU4acaLZBw4"
 
 ]}
